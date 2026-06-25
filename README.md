@@ -1,55 +1,206 @@
 <p align="center">
   <img src="WhatsApp Image 2026-06-26 at 1.12.53 AM.jpeg" width="100%">
 </p>
+<h1 align="center">Hi 👋, I'm Anirban Shit</h1>
 
----
+<h3 align="center">
+💻 Full Stack Developer • 🚀 Backend Developer • 🎓 Computer Science Engineering Student
+</h3>
 
-### 👋 Hi, I'm Anirban Shit
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems, and continuously improving my software engineering skills through hands-on development and competitive programming.
+</p>
 
-🎓 **B.Tech CSE student** (2024–2028) at *Jalpaiguri Government Engineering College (Autonomous)*
-📍 From *Kolkata, West Bengal, India*
-💻 Actively seeking software engineering or web development opportunities to contribute to scalable, real-world solutions.
-
----
-
-### 🌟 About Me
-
-- 🔭 **Currently building:** Full-stack web applications using React.js, Node.js, Express.js, MongoDB, and MySQL.
-- 🌱 **Exploring:** Modern web development practices, specifically utilizing Tailwind CSS for responsive UI design.
-- 👨‍💻 **Growing:** Strengthening my core foundation in **Data Structures & Algorithms** and **Object-Oriented Programming (OOP)**.
-- 🚀 **Projects:** Built responsive applications including an *Alcohol Delivery Platform* and a *Modern Portfolio Website*.
-- 🎓 **Certifications:** Completed Full Stack Web Development (Chai Aur Code).
-
----
-
-### 📫 How to reach me:
-
-- 📧 **Email:** [anirbanshit77@gmail.com](mailto:anirbanshit77@gmail.com)
-
----
-
-### 🌍 Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/anirbanshit" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anirbanshit" /></a>
-<a href="https://github.com/anirbanshit29" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="anirbanshit29" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;Software+Engineering+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
 </p>
 
 ---
 
-### 💻 Languages & Tools:
+## 👨‍💻 About Me
+
+```javascript
+const anirban = {
+    location: "India 🇮🇳",
+    education: "B.Tech CSE (2024-2028)",
+    college: "Jalpaiguri Government Engineering College",
+    role: "Full Stack Developer",
+    passion: [
+        "Backend Development",
+        "Software Engineering",
+        "Problem Solving",
+        "Scalable Web Applications"
+    ],
+    currentlyLearning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "System Design",
+        "Open Source"
+    ]
+};
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🔥 Backend Development
+- 💻 Full Stack Projects
+- 📚 Data Structures & Algorithms
+- ⚡ LeetCode
+- 🌍 Open Source Contributions
+- 🏗️ System Design Fundamentals
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Personal Portfolio Website
+
+Responsive personal portfolio showcasing projects, skills, resume and contact information.
+
+🔗 Repository:
+`Add Repository Link`
+
+---
+
+## 🍷 Alcohol Delivery Platform
+
+Modern React + Tailwind CSS web application inspired by food delivery platforms.
+
+🔗 Repository:
+`Add Repository Link`
+
+---
+
+## 🚦 Smart Traffic Management System
+
+Smart traffic optimization project focused on improving traffic flow using modern technologies.
+
+🔗 Repository:
+`Add Repository Link`
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Backend Architecture
+
+- REST APIs
+
+- Authentication & JWT
+
+- MongoDB Optimization
+
+- System Design
+
+- Docker
+
+- CI/CD
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production-Level Projects
+
+✅ Strengthen Backend Development
+
+✅ Solve 500+ LeetCode Problems
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Engineering Internship
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Great software isn't built overnight. It's built one commit at a time."</i>
+
 </p>
