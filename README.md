@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="WhatsApp Image 2026-06-26 at 1.12.53 AM.jpeg" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Anirban Shit</h1>
 
