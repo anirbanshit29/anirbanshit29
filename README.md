@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./banner.png" alt="Anirban Shit Banner" width="100%">
+  <img src="e2fc1d2b-6b32-4a74-a7fb-8ed72beb34ec.png" width="100%">
 </p>
 
 ---
