@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="e2fc1d2b-6b32-4a74-a7fb-8ed72beb34ec.png" width="100%">
+  <img src="WhatsApp Image 2026-06-26 at 1.12.53 AM.jpeg" width="100%">
 </p>
 
 ---
