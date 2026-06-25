@@ -94,24 +94,16 @@ const anirban = {
 Responsive personal portfolio showcasing projects, skills, resume and contact information.
 
 🔗 Repository:
-https://github.com/anirbanshit29/alcohol-ecommerce-website
+
 ---
 
 ## 🍷 Alcohol Delivery Platform
 
 Modern React + Tailwind CSS web application inspired by food delivery platforms.
 
-🔗 Repository:
-`Add Repository Link`
+🔗 Repository: <h4>https://github.com/anirbanshit29/alcohol-ecommerce-website</h4>
 
----
 
-## 🚦 Smart Traffic Management System
-
-Smart traffic optimization project focused on improving traffic flow using modern technologies.
-
-🔗 Repository:
-`Add Repository Link`
 
 ---
 
