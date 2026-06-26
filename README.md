@@ -98,9 +98,7 @@ const anirban = {
 
 A responsive portfolio website showcasing projects, technical skills, achievements, and professional experience.
 
-**Repository**
-
-> Add your repository link here.
+**Repository** https://github.com/anirbanshit29/personal-portfolio
 
 ---
 
