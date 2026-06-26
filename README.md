@@ -1,179 +1,178 @@
-<p align="center">
-</p>
-<h1 align="center">Hi 👋, I'm Anirban Shit</h1>
-
-<h3 align="center">
-💻 Full Stack Developer • 🚀 Backend Developer • 🎓 Computer Science Engineering Student
-</h3>
+<h1 align="center">Anirban Shit</h1>
 
 <p align="center">
-Passionate about building scalable web applications, solving real-world problems, and continuously improving my software engineering skills through hands-on development and competitive programming.
+Software Engineering Enthusiast • Full Stack Developer • Backend Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;Software+Engineering+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
+B.Tech in Computer Science & Engineering (2024–2028)<br>
+Jalpaiguri Government Engineering College
+</p>
+
+<p align="center">
+Passionate about building scalable backend systems, developing modern web applications, and solving real-world problems through clean, efficient software engineering.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Backend+Development;Full+Stack+Web+Development;Software+Engineering;Open+Source+Contributor;Always+Learning" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const anirban = {
-    location: "India 🇮🇳",
-    education: "B.Tech CSE (2024-2028)",
+    name: "Anirban Shit",
+    education: "B.Tech in Computer Science & Engineering",
     college: "Jalpaiguri Government Engineering College",
-    role: "Full Stack Developer",
-    passion: [
+    graduation: "2028",
+
+    interests: [
         "Backend Development",
         "Software Engineering",
-        "Problem Solving",
-        "Scalable Web Applications"
+        "System Design",
+        "Problem Solving"
     ],
+
     currentlyLearning: [
         "Node.js",
         "Express.js",
         "MongoDB",
-        "System Design",
+        "Docker",
+        "CI/CD",
         "Open Source"
     ]
 };
-```
+````
 
 ---
 
-# 🚀 Current Focus
+## Current Focus
 
-- 🔥 Backend Development
-- 💻 Full Stack Projects
-- 📚 Data Structures & Algorithms
-- ⚡ LeetCode
-- 🌍 Open Source Contributions
-- 🏗️ System Design Fundamentals
+* Building scalable backend applications
+* Developing production-ready full stack projects
+* Strengthening Data Structures & Algorithms
+* Learning System Design fundamentals
+* Contributing to Open Source
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-## Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## Developer Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🌐 Personal Portfolio Website
+### Personal Portfolio
 
-Responsive personal portfolio showcasing projects, skills, resume and contact information.
+A responsive portfolio website showcasing projects, technical skills, achievements, and professional experience.
 
-🔗 Repository:
+**Repository**
 
----
-
-## 🍷 Alcohol Delivery Platform
-
-Modern React + Tailwind CSS web application inspired by food delivery platforms.
-
-🔗 Repository: <h4>https://github.com/anirbanshit29/alcohol-ecommerce-website</h4>
-
-
+> Add your repository link here.
 
 ---
 
-# 📈 GitHub Analytics
+### Alcohol E-Commerce Platform
+
+A modern React-based web application inspired by contemporary e-commerce and delivery platforms with responsive design and intuitive navigation.
+
+**Repository**
+
+https://github.com/anirbanshit29/alcohol-ecommerce-website
+
+---
+
+## GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanshit29&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanshit29&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
+## Development Journey
 
-- Backend Architecture
-
-- REST APIs
-
-- Authentication & JWT
-
-- MongoDB Optimization
-
-- System Design
-
-- Docker
-
-- CI/CD
+* Backend Development
+* REST API Design
+* Authentication & Authorization
+* MongoDB
+* System Design
+* Docker
+* CI/CD
+* Competitive Programming
 
 ---
 
-# 🎯 2026 Goals
+## 2026 Roadmap
 
-✅ Build Production-Level Projects
-
-✅ Strengthen Backend Development
-
-✅ Solve 500+ LeetCode Problems
-
-✅ Contribute to Open Source
-
-✅ Secure a Software Engineering Internship
+* Build production-ready backend applications
+* Solve 500+ LeetCode problems
+* Contribute consistently to Open Source
+* Master Node.js and Express.js
+* Learn scalable system architecture
+* Secure a Software Engineering Internship
 
 ---
 
-# 🤝 Connect With Me
+## Connect
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anirbanshit29">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -182,15 +181,6 @@ Modern React + Tailwind CSS web application inspired by food delivery platforms.
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anirbanshit29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
+<img src="https://komarev.com/ghpvc/?username=anirbanshit29&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-<p align="center">
-
-<i>"Great software isn't built overnight. It's built one commit at a time."</i>
-
-</p>
+```
