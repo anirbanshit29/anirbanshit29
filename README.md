@@ -108,8 +108,6 @@ A modern React-based web application inspired by contemporary e-commerce and del
 
 **Repository**
 
-https://github.com/anirbanshit29/alcohol-ecommerce-website
-
 ---
 
 ## GitHub Analytics
