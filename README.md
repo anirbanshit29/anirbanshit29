@@ -1,181 +1,24 @@
-<h1 align="center">Anirban Shit</h1>
+# 💫 About Me:
+const anirban = {<br>    name: "Anirban Shit",<br>    education: "B.Tech in Computer Science & Engineering",<br>    college: "Jalpaiguri Government Engineering College",<br>    graduation: "2028",<br><br>    interests: [<br>        "Backend Development",<br>        "Software Engineering",<br>        "System Design",<br>        "Problem Solving"<br>    ],<br><br>    currentlyLearning: [<br>        "Node.js",<br>        "Express.js",<br>        "MongoDB",<br>        "Docker",<br>        "CI/CD",<br>        "Open Source"<br>    ]<br>};
 
-<p align="center">
-Software Engineering Enthusiast • Full Stack Developer • Backend Developer
-</p>
 
-<p align="center">
-B.Tech in Computer Science & Engineering (2024–2028)<br>
-Jalpaiguri Government Engineering College
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anirbanshit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirbanshit77@gmail.com) 
 
-<p align="center">
-Passionate about building scalable backend systems, developing modern web applications, and solving real-world problems through clean, efficient software engineering.
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anirbanshit29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anirbanshit29&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anirbanshit29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Backend+Development;Full+Stack+Web+Development;Software+Engineering;Open+Source+Contributor;Always+Learning" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anirbanshit29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## About Me
-
-```javascript
-const anirban = {
-    name: "Anirban Shit",
-    education: "B.Tech in Computer Science & Engineering",
-    college: "Jalpaiguri Government Engineering College",
-    graduation: "2028",
-
-    interests: [
-        "Backend Development",
-        "Software Engineering",
-        "System Design",
-        "Problem Solving"
-    ],
-
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Docker",
-        "CI/CD",
-        "Open Source"
-    ]
-};
-````
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anirbanshit29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anirbanshit29&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Current Focus
-
-* Building scalable backend applications
-* Developing production-ready full stack projects
-* Strengthening Data Structures & Algorithms
-* Learning System Design fundamentals
-* Contributing to Open Source
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## Featured Projects
-
-### Personal Portfolio
-
-A responsive portfolio website showcasing projects, technical skills, achievements, and professional experience.
-
-**Repository** https://github.com/anirbanshit29/personal-portfolio
-
----
-
-### Alcohol E-Commerce Platform
-
-A modern React-based web application inspired by contemporary e-commerce and delivery platforms with responsive design and intuitive navigation.
-
-**Repository**
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-
-
-<img width="49%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-
-</p>
-
----
-
-## Development Journey
-
-* Backend Development
-* REST API Design
-* Authentication & Authorization
-* MongoDB
-* System Design
-* Docker
-* CI/CD
-* Competitive Programming
-
----
-
-## 2026 Roadmap
-
-* Build production-ready backend applications
-* Solve 500+ LeetCode problems
-* Contribute consistently to Open Source
-* Master Node.js and Express.js
-* Learn scalable system architecture
-* Secure a Software Engineering Internship
-
----
-
-## Connect
-
-<p align="center">
-
-<a href="https://github.com/anirbanshit29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anirbanshit29&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
