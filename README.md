@@ -114,7 +114,7 @@ A modern React-based web application inspired by contemporary e-commerce and del
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanshit29&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
 
 <img width="49%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark&hide_border=true"/>
 
@@ -122,7 +122,6 @@ A modern React-based web application inspired by contemporary e-commerce and del
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
