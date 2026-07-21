@@ -124,22 +124,6 @@ A modern React-based web application inspired by contemporary e-commerce and del
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anirbanshit29&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anirbanshit29/anirbanshit29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## Development Journey
 
 * Backend Development
