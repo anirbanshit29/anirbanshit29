@@ -119,7 +119,23 @@ A modern React-based web application inspired by contemporary e-commerce and del
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=anirbanshit29&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anirbanshit29&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anirbanshit29/anirbanshit29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
