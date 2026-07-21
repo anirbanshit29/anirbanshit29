@@ -108,7 +108,6 @@ A modern React-based web application inspired by contemporary e-commerce and del
 
 **Repository**
 
----
 ## GitHub Analytics
 
 <p align="center">
@@ -119,7 +118,6 @@ A modern React-based web application inspired by contemporary e-commerce and del
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=anirbanshit29&theme=github-dark&hide_border=true"/>
 </p>
----
 
 
 ## Development Journey
