@@ -107,18 +107,20 @@ A responsive portfolio website showcasing projects, technical skills, achievemen
 A modern React-based web application inspired by contemporary e-commerce and delivery platforms with responsive design and intuitive navigation.
 
 **Repository**
+---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirbanshit29&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anirbanshit29&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=anirbanshit29&theme=github-dark&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark&hide_border=true" />
 </p>
 
+---
 
 ## Development Journey
 
