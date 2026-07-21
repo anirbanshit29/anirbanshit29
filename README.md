@@ -110,18 +110,19 @@ A modern React-based web application inspired by contemporary e-commerce and del
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=anirbanshit29&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=anirbanshit29&theme=github-dark&hide_border=true" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirbanshit29&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanshit29&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbanshit29&theme=github-dark&hide_border=true" />
+
+</div>
 
 ## Development Journey
 
